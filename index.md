@@ -44,6 +44,4 @@ My goal is to either pursue a job opportunity in the field of financial engineer
 
 I have been playing piano since the age of 5, and I picked up guitar about two years ago, so music is a huge component of my life. Additionally, I love to play tennis and to watch sports in general.
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
