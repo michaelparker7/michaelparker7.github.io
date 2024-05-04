@@ -5,7 +5,7 @@ My name is Michael Parker, and I am a third year student at Lehigh University. I
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/ProfilePicture.JPG?raw=true"" width="50%">
+  <img class="img-circle" src="images/ProfilePicture.JPG?raw=true" width="50%">
 </p>
 
 ---
@@ -29,15 +29,15 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Swish Insights - Predictive Analysis of Boston Celtics Regular Season](https://brandon4106.github.io/Fin_377_Swish_Insights/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/model_three.png?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Swish Insights - Presentation](/pdf/swish.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swishinsights.png?raw=true"/>
 
 ---
 
