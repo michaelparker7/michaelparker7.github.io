@@ -1,11 +1,13 @@
 title: Michael Parker # your name (or website title) here
 logo: "/images/ProfilePicture.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+  Edit these links below   
   <br>
   in _config.yml 
   <br><br>
   <a href="https://www.linkedin.com/in/mparker6/">LinkedIn</a> 
+  <br>
+  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://www.GitHub.com/michaelparker7/">GitHub</a>  
  
