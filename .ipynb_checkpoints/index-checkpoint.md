@@ -14,11 +14,10 @@ My name is Michael Parker, and I am a third year student at Lehigh University. I
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Sentiment Analysis of 10-Ks](/midterm/report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/midterm/output_31_1.png"/>
 
 ---
 
