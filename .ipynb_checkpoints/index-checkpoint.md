@@ -1,11 +1,11 @@
 ## About Me
 
-My name is Michael Parker, and I am a third year student at Lehigh University. I am pursuing a dual degree in Mechanical Engineering and Finance, and have plans to complete a Masters in Financial Engineering. 
+My name is Michael Parker, and I am a third year student at Lehigh University. I am pursuing a dual degree in Mechanical Engineering and Finance, and have plans to complete a Masters in Financial Engineering. I am in the Integrated Business and Engineering (IBE) Honors program, and passionate about finance, data analytics, and consulting.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/ProfilePicture.JPG?raw=true" width="50%">
+  <img class="img-circle" src="images/lehigh.JPG?raw=true" width="50%">
 </p>
 
 ---
@@ -36,15 +36,13 @@ _**[Swish Insights - Presentation](/pdf/swish.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+My goal is to either pursue a job opportunity in the field of financial engineering, or have success in my current startup doing business analytics.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I have been playing piano since the age of 5, and I picked up guitar about two years ago, so music is a huge component of my life. Additionally, I love to play tennis and to watch sports in general.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
