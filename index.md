@@ -21,13 +21,6 @@ _**[Sentiment Analysis of 10-Ks](/midterm/report)**_
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 _**[Swish Insights - Predictive Analysis of Boston Celtics Regular Season](https://brandon4106.github.io/Fin_377_Swish_Insights/)**_
 
