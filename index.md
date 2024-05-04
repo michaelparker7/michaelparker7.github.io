@@ -5,7 +5,7 @@ My name is Michael Parker, and I am a third year student at Lehigh University. I
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/lehigh.jpg?raw=true" width="50%">
+  <img class="img-circle" src="images/lehigh.jpg?raw=true" width="100%">
 </p>
 
 ---
